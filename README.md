@@ -11,7 +11,7 @@ The coffee shop management wants to analyze sales and customer patterns to under
 -  Which top 5 products generate the maximum sales revenue?
 -  What is the revenue percentage share across different product categories?
 -  How does sales revenue and footfall vary across different store locations?
--  How are order volumes distributed across different product sizes (Large, Regular, Small, etc.)?
+-  How are order volumes distributed across different product sizes (Large, Regular, Small etc )?
 -  How do total order volumes fluctuate across different days of the week?
 
 - Dashboard Interaction <a href="https://github.com/Asmi-5077/Coffee-Sales-Analysis-Excel-Dashboard/blob/main/coffee%20sales%20analysis%20dashboard%20pic.png">View Dashboard</a>
